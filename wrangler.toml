@@ -1,0 +1,6 @@
+name = "speedsearch"
+compatibility_date = "2024-06-11"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = "AZOJAAIncDFmZGQ4NDc5YjI0NzY0ODI4OTcyNzA1ODA5ZGNkZTcyZXAxMzc3Njk"
+UPSTASH_REDIS_REST_URL = "https://relieved-ibex-37769.upstash.io"
